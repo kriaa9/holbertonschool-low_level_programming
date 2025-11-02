@@ -30,3 +30,22 @@ This project focuses on understanding and using pointers, arrays, and strings in
 8. print_array - Print n elements of array
 9. _strcpy - Copy a string
 10. _atoi - Convert string to integer
+
+## Part 2: More Pointers, Arrays and Strings
+
+This section covers:
+- Memory manipulation functions (memset, memcpy)
+- String searching functions (strchr, strspn, strpbrk, strstr)
+- 2D arrays and pointer to pointer concepts
+- Chessboard representation
+- Matrix diagonal calculations
+
+### Additional Tasks
+0. _memset - Fill memory with constant byte
+1. _memcpy - Copy memory area
+2. _strchr - Locate character in string
+3. _strspn - Get length of prefix substring
+4. _strpbrk - Search string for set of bytes
+5. _strstr - Locate substring
+6. print_chessboard - Print 2D chessboard
+7. print_diagsums - Print sum of matrix diagonals
