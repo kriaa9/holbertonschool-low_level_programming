@@ -19,4 +19,4 @@ struct structure_name {
     type member1;
     type member2;
     ...
-};
+};EOF
