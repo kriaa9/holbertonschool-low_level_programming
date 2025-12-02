@@ -1,2 +1,0 @@
-# 🔗 C - Singly Linked Lists
-
